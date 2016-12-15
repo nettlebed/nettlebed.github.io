@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.formatOnSave": false,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false
+}
