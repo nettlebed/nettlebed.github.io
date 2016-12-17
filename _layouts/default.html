@@ -12,20 +12,36 @@
 </head>
 
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        One of three columns
+  <div class="demo-layout-transparent mdl-layout mdl-js-layout">
+    <header class="mdl-layout__header mdl-layout__header--transparent">
+      <div class="mdl-layout__header-row">
+        <!-- Title -->
+        <span class="mdl-layout-title">Title</span>
+        <!-- Add spacer, to align navigation to the right -->
+        <div class="mdl-layout-spacer"></div>
+        <!-- Navigation -->
+        <nav class="mdl-navigation">
+          <a class="mdl-navigation__link" href="">Link</a>
+          <a class="mdl-navigation__link" href="">Link</a>
+          <a class="mdl-navigation__link" href="">Link</a>
+          <a class="mdl-navigation__link" href="">Link</a>
+        </nav>
       </div>
-      <div class="col-sm-4">
-        One of three columns
-      </div>
-      <div class="col-sm-4">
-        {{ content }}
-      </div>
+    </header>
+    <div class="mdl-layout__drawer">
+      <span class="mdl-layout-title">Title</span>
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="">Link</a>
+        <a class="mdl-navigation__link" href="">Link</a>
+        <a class="mdl-navigation__link" href="">Link</a>
+        <a class="mdl-navigation__link" href="">Link</a>
+      </nav>
     </div>
-  </div>
-  <!-- /.container -->
+    <main class="mdl-layout__content">
+      {{ content }}
+    </main>
+  </div>   
+  
   {% include footer.html %}
   <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
 </body>
