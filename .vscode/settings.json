@@ -2,5 +2,6 @@
 {
     "editor.formatOnSave": false,
     "window.zoomLevel": 0,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "workbench.editor.showTabs": false
 }
