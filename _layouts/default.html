@@ -15,11 +15,11 @@
 					{{ content }}
 				</div>
 				<div class="mdl-cell mdl-cell--3-col">
-				  <h1>Posts</h1>
+				  <h2>Posts</h2>
 				  {% for post in site.posts %}
 				    <article class="post">
 
-				      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+				      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
 				      <div class="entry">
 					{{ post.excerpt }}
