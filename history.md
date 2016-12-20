@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Nettlebed History
+author: Malcolm Lewis
 ---
 # Nettlebed - A Brief History
 
 Compiled by Jeff Reynolds c2004
-
 Edited by Malcolm Lewis 2013
 
 The origin of the name Nettlebed is unknown. There are various theories. One is that Roman soldiers in the 1st and 2nd centuries AD rubbed nettles on their limbs to keep warm on marches. Another  well known fact is that nettles yield a thread which can be made into a linen cloth. Many homes at the end of the 18th century had sheets and table cloths made from nettles which grow in abundance around the area. Nettlebed remained part of the manor of Benson until the late 13th century hence it was not mentioned in the  Domesday Book which was a record of the ownership of manorial land.
@@ -67,17 +67,8 @@ Although our research into the family is incomplete, it appears that William Gre
 
 This is of course only a taste of the rich and interesting past of our village. If you would like to know more about any aspect touched on here please contact the editor who will be pleased to help.
 
-Very Old History
+## Very Old History
 Millions of years ago the Chilterns were some 150 metres lower and where Nettlebed is today was under the Thames. We now have an important geological site on our commons close to Windmill Hill which is registered as a Geological Site of Special Scientific Interest - SSSI. Please follow this link for more information - Nettlebed SSSI
-
-
-
-
-
-
-
-
-
 
 An April night a cloudy sky
 A gusty wind that hurried by
@@ -124,15 +115,7 @@ Became our windmill's funeral pyre
 G.E.Spencer (an old Nettlebedite)
 
 
-
-
-
-
-
-
-
-
-The 1846 school
+## The 1846 school
 
 The 1928 school
 now demolished
